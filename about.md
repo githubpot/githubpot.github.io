@@ -7,8 +7,10 @@ permalink: /about/
 Some information about you!
 
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hi, I'm NicolasPot.
+I like spend most of my time learning and finding interesting stuff.
+I'm attempting to teach myself the fundamentals and will share my journey on this blog.
+So just find a place to record something .
 
 ### Contact me
 
