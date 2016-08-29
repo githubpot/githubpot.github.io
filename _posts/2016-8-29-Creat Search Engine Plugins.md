@@ -1,7 +1,6 @@
 ---
-layout: ipython
+layout: post
 title: Creat Search Engine Plugins/BB10系统添加自定义搜索引擎扩展全局搜索
-tags: BB10
 ---
 
 http://www.mycroftproject.com/submitos.html.
