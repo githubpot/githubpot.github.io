@@ -4,7 +4,8 @@ title: About Me
 permalink: /about/
 ---
 
-Some information about you!
+Nickname: NicolasPot
+QQ: 516884456
 
 ### More Information
 Hi, I'm NicolasPot.
