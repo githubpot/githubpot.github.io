@@ -24,3 +24,5 @@ http://www.mycroftproject.com/submitos.html并勾选Show full instruction
 5、之后可以将此引擎加入BB10的全局搜索，在设置中的Extended Search中勾上即可
 
 同样的，也可以将创建的插件添加至Chrome、firefox等，方便搜索。
+
+技巧来源于爱尚论坛的一位莓友，由于此论坛关闭了，故在此记录下
