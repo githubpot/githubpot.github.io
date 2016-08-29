@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 Nickname: NicolasPot
+
 QQ: 516884456
 
 ### More Information
